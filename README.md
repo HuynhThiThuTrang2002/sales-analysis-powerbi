@@ -47,10 +47,12 @@ sales-analysis-powerbi/
 
 │
 ├── data/
+
 │   └── sales_sample.csv
 │
 
 ├── images/
+
 │   ├── ProfitMargin_byMonth.jpg
 │   ├── Revenue&Profit_byMonth.jpg
 │   ├── Sales_Distribution_by_Region.jpg
