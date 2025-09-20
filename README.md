@@ -25,5 +25,9 @@ The dashboard was built in **Power BI** with interactive visuals to support busi
 - Description: Line chart showing monthly revenue and profit trends.
 - Insight: Revenue peaked in January and October, but profit margins were inconsistent, indicating potential cost management issues.
 
+### 2. Top Products by Revenue
+
+- Description: Column chart ranking products based on revenue contribution.
+- Insight: Product A generates the highest revenue, significantly outperforming other products. This indicates Product A is the key revenue driver, while Products C, D, and E contribute much less.
 
 ## 📂 Project Structure
