@@ -30,4 +30,8 @@ The dashboard was built in **Power BI** with interactive visuals to support busi
 - Description: Column chart ranking products based on revenue contribution.
 - Insight: Product A generates the highest revenue, significantly outperforming other products. This indicates Product A is the key revenue driver, while Products C, D, and E contribute much less.
 
+### 3. Sales Distribution by Region
+![Sales Distribution by Region](Sales_Distribution_by_Region.jpg)
+- Description: Bar Chart showing total revenue by region (South, Central, North).
+- Insight: The South region contributes the highest share of revenue, while the Central and North regions generate significantly lower sales. This suggests focusing on maintaining South’s performance and exploring strategies to grow sales in weaker regions.
 ## 📂 Project Structure
