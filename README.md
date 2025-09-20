@@ -19,6 +19,9 @@ The dashboard was built in **Power BI** with interactive visuals to support busi
 - **Data Visualization** – Charts, KPIs, interactive dashboards
 
 ## 📊 Dashboard Preview
-![Dashboard Screenshot](./images/AOV.jpg)  
 
+### 1.Revenue & Profit Trend by Month
+![Revenue and Profit by Monthj](./images/Revenue&Profit_byMonth.jpg)  
+- Description: Line chart showing monthly revenue and profit trends.
+- Insight: Revenue peaked in January and October, but profit margins were inconsistent, indicating potential cost management issues.
 ## 📂 Project Structure
