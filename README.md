@@ -34,4 +34,12 @@ The dashboard was built in **Power BI** with interactive visuals to support busi
 ![Sales Distribution by Region](./images/Sales_Distribution_by_Region.jpg)
 - Description: Bar Chart showing total revenue by region (South, Central, North).
 - Insight: The South region contributes the highest share of revenue, while the Central and North regions generate significantly lower sales. This suggests focusing on maintaining South’s performance and exploring strategies to grow sales in weaker regions.
+
+### 4. Customer Performance (AOV / Profit Margin)
+![Customer Performance](./images/ProfitMargin_byMonth.jpg)
+- Description: KPI Cards or a simple Table showing:
+   + Average Order Value (AOV) = Total Revenue / Number of Orders
+   + Profit Margin = (Profit ÷ Revenue) × 100%
+- Insight: The Average Order Value is relatively low, indicating customers spend modestly per transaction. At the same time, the Profit Margin suggests that while revenue is generated, profitability could be improved. This highlights opportunities to boost customer value through upselling, cross-selling, or product bundling.
+
 ## 📂 Project Structure
