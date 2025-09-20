@@ -44,6 +44,7 @@ The dashboard was built in **Power BI** with interactive visuals to support busi
 
 ## 📂 Project Structure
 sales-analysis-powerbi/
+
 │
 
 ├── data/
