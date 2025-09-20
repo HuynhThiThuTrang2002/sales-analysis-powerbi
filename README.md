@@ -44,16 +44,20 @@ The dashboard was built in **Power BI** with interactive visuals to support busi
 
 ## 📂 Project Structure
 sales-analysis-powerbi/
+
 │
 ├── data/
 │   └── sales_sample.csv
 │
+
 ├── images/
 │   ├── ProfitMargin_byMonth.jpg
 │   ├── Revenue&Profit_byMonth.jpg
 │   ├── Sales_Distribution_by_Region.jpg
 │   ├── Top_Products_by_Revenue.jpg
 │
+
 ├── Mini_project.pbix
 │
+
 └── README.md         
