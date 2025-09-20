@@ -43,3 +43,17 @@ The dashboard was built in **Power BI** with interactive visuals to support busi
 - Insight: The Average Order Value is relatively low, indicating customers spend modestly per transaction. At the same time, the Profit Margin suggests that while revenue is generated, profitability could be improved. This highlights opportunities to boost customer value through upselling, cross-selling, or product bundling.
 
 ## 📂 Project Structure
+sales-analysis-powerbi/
+│
+├── data/
+│   └── sales_sample.csv
+│
+├── images/
+│   ├── ProfitMargin_byMonth.jpg
+│   ├── Revenue&Profit_byMonth.jpg
+│   ├── Sales_Distribution_by_Region.jpg
+│   ├── Top_Products_by_Revenue.jpg
+│
+├── Mini_project.pbix
+│
+└── README.md         
