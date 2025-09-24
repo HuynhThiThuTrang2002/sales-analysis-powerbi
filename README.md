@@ -70,3 +70,16 @@ sales-analysis-powerbi/
 │
 
 └── README.md         
+
+## 📌 Conclusion & Recommendations
+### 🔍 Key Insights
+- Revenue fluctuates significantly across months, with peaks in January and October, while profit margin remains unstable.
+- Product A dominates revenue contribution, creating a dependency risk on a single product.
+- Southern region generates the highest revenue, while Northern and Central regions underperform.
+- Average Order Value (AOV) is low, and profit margins are often weak, especially in October (only 1.23%).
+
+### 💡 Recommendations
+- Optimize costs (review logistics, promotions, and supplier pricing) to stabilize profit margins.
+- Diversify product portfolio to reduce reliance on Product A and explore new product opportunities.
+- Regional strategy: strengthen loyalty programs in the South while boosting marketing and distribution in the North and Central regions.
+- Increase AOV through upselling, cross-selling, and bundle promotions to encourage higher spending per transaction.
