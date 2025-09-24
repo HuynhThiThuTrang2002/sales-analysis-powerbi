@@ -83,3 +83,5 @@ sales-analysis-powerbi/
 - Diversify product portfolio to reduce reliance on Product A and explore new product opportunities.
 - Regional strategy: strengthen loyalty programs in the South while boosting marketing and distribution in the North and Central regions.
 - Increase AOV through upselling, cross-selling, and bundle promotions to encourage higher spending per transaction.
+
+👉 Overall, the business shows strong revenue but weak profitability. The focus should be on balancing revenue growth with sustainable profit optimization.
